@@ -32,3 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 /src/main/resources/application-dev.properties
+/access-refresh-token-keys/access-token-private.key
+/access-refresh-token-keys/access-token-public.key
+/access-refresh-token-keys/refresh-token-private.key
+/access-refresh-token-keys/refresh-token-public.key
